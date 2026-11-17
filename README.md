@@ -68,31 +68,21 @@ This project uses historical stock market data from Yahoo Finance to analyze sto
 
 
 
-\## Installation
 
-
+## Installation
 
 ```bash
-
 git clone https://github.com/gundlapallidivya/Google-Stock-Price-Prediction.git
-
 cd Google-Stock-Price-Prediction
-
 pip install -r requirements.txt
-
 ```
 
-
-
-\## Run the Application
-
-
+## Run the Application
 
 ```bash
-
 python -m streamlit run stock_app.py
-
 ```
+
 
 
 

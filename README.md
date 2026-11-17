@@ -74,9 +74,9 @@ This project uses historical stock market data from Yahoo Finance to analyze sto
 
 ```bash
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/gundlapallidivya/Google-Stock-Price-Prediction.git
 
-cd Stock-Price-Prediction-Using-ML
+cd Google-Stock-Price-Prediction
 
 pip install -r requirements.txt
 

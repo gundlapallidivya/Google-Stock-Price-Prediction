@@ -1,4 +1,23 @@
-\# Stock Price Prediction \& Analytics Dashboard
+\#
+
+
+
+## Dashboard Screenshots
+
+### Stock Overview
+![Stock Overview](visuals/overview.png)
+
+### Market Trends
+![Market Trends](visuals/market_trends.png)
+
+### Model Comparison
+![Model Comparison](visuals/model_comparison.png)
+
+### Company Comparison
+![Company Comparison](visuals/Company_Comparison.png)
+
+### Model Details
+![Model Details](visuals/Model%20Details.png)Stock Price Prediction \& Analytics Dashboard
 
 
 

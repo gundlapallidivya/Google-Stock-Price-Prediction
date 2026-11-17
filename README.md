@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ```bash
 
-python -m streamlit run stock\_app.py
+python -m streamlit run stock_app.py
 
 ```
 

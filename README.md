@@ -128,20 +128,6 @@ Historical stock market data is retrieved from Yahoo Finance using yfinance.
 
 This project is developed for educational purposes. Stock price predictions are estimates and are not guaranteed market prices or financial advice.
 
-## Dashboard Screenshots
 
-### Stock Overview
-![Stock Overview](overview.png)
 
-### Market Trends
-![Market Trends](market_trends.png)
-
-### Model Comparison
-![Model Comparison](model_comparison.png)
-
-### Company Comparison
-![Company Comparison](Company_Comparison.png)
-
-### Model Details
-![Model Details](Model%20Details.png)
 

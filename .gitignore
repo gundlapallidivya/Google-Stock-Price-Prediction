@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.env
+.DS_Store
+*.h5
+*.keras
+*.pkl
+*.joblib

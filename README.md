@@ -2,25 +2,6 @@
 
 
 
-## Dashboard Screenshots
-
-### Stock Overview
-![Stock Overview](visuals/overview.png)
-
-### Market Trends
-![Market Trends](visuals/market_trends.png)
-
-### Model Comparison
-![Model Comparison](visuals/model_comparison.png)
-
-### Company Comparison
-![Company Comparison](visuals/Company_Comparison.png)
-
-### Model Details
-![Model Details](visuals/Model%20Details.png)Stock Price Prediction \& Analytics Dashboard
-
-
-
 An end-to-end stock market analytics and price prediction application using Python, Machine Learning, Deep Learning and Streamlit.
 
 
@@ -146,4 +127,21 @@ Historical stock market data is retrieved from Yahoo Finance using yfinance.
 
 
 This project is developed for educational purposes. Stock price predictions are estimates and are not guaranteed market prices or financial advice.
+
+## Dashboard Screenshots
+
+### Stock Overview
+![Stock Overview](overview.png)
+
+### Market Trends
+![Market Trends](market_trends.png)
+
+### Model Comparison
+![Model Comparison](model_comparison.png)
+
+### Company Comparison
+![Company Comparison](Company_Comparison.png)
+
+### Model Details
+![Model Details](Model%20Details.png)
 
